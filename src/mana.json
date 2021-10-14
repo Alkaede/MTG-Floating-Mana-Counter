@@ -1,0 +1,28 @@
+[
+  {
+    "mana": "white",
+    "image": "https://cardboard.readthedocs.io/en/latest/_images/W.png",
+    "color": "#FFFCD6"
+  },
+  {
+    "mana": "blue",
+    "image": "https://cardboard.readthedocs.io/en/latest/_images/U.png",
+    "color": "#AAE0FA"
+  },
+  {
+    "mana": "black",
+    "image": "https://cardboard.readthedocs.io/en/latest/_images/B.png",
+    "color": "#282C34"
+  },
+  {
+    "mana": "red",
+    "image": "https://cardboard.readthedocs.io/en/latest/_images/R.png",
+    "color": "#000000"
+
+  },
+  {
+    "mana": "green",
+    "image": "https://cardboard.readthedocs.io/en/latest/_images/G.png",
+    "color": "#282C34"
+  }
+]
