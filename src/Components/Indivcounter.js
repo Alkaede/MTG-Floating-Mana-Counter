@@ -9,6 +9,10 @@ const IndivCounter = (props) => {
     setCounter(counter + 1)
   }
 
+  // const timesTwo = () => {
+  //   setCounter(counter * 2)
+  // }
+
   return (
     <section className='mana-container'>
       <div>

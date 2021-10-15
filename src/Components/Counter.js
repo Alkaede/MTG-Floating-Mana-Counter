@@ -11,7 +11,7 @@ const ElementCounter = () => {
   }
   
   return (
-    <div>
+    <div className='mana-map'>
       {mana.map(manaCounter)}
     </div>
   );
