@@ -12,17 +12,17 @@
   {
     "mana": "black",
     "image": "https://cardboard.readthedocs.io/en/latest/_images/B.png",
-    "color": "#282C34"
+    "color": "#CCC2C0"
   },
   {
     "mana": "red",
     "image": "https://cardboard.readthedocs.io/en/latest/_images/R.png",
-    "color": "#000000"
+    "color": "#FAAA8F"
 
   },
   {
     "mana": "green",
     "image": "https://cardboard.readthedocs.io/en/latest/_images/G.png",
-    "color": "#282C34"
+    "color": "#9BD3AE"
   }
 ]
